@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+/PCRS/FallWinterWeek10Prepare/Data
+
 # Distribution / packaging
 .Python
 build/
